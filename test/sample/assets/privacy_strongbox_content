@@ -1,0 +1,5 @@
+隐私图片_用隐私相册管理您的私密照片##feature_ic_image.png##com.qihoo360.mobilesafe.strongbox.ui.ImageInboxActivity
+隐私视频_加密保护您的视频##feature_ic_video.png##com.qihoo360.mobilesafe.strongbox.ui.VideoInboxActivity
+隐私文件_加密保护您的电子书、文档、数据…##feature_ic_file.png##com.qihoo360.mobilesafe.strongbox.ui.FileInboxActivity
+密码保险箱_记录您的常用账号和密码##feature_ic_pwd.png##com.qihoo360.mobilesafe.pwdprotector.MSafeActivity
+程序锁_保护您手机上安装的应用##feature_ic_app_lock.png##com.qihoo360.mobilesafe.applock.ui.AppLockActivity

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<apn-default version="1">
+    <!-- 46000 -->
+    <apn
+        name="中国移动GPRS"
+        numeric="46000"
+        mcc="460"
+        mnc="00"
+        apn="cmnet"
+        type="default,supl" />
+    <apn
+        name="中国移动CMWAP"
+        numeric="46000"
+        mcc="460"
+        mnc="00"
+        apn="cmwap"
+        proxy="10.0.0.172"
+        port="80"
+        type="default,supl" />
+    <apn
+        name="中国移动彩信"
+        numeric="46000"
+        mcc="460"
+        mnc="00"
+        apn="cmwap"
+        mmsc="http://mmsc.monternet.com"
+        mmsproxy="10.0.0.172"
+        mmsport="80"
+        type="mms" />
+    <!-- 46000 -->
+    <!-- 46001 -->
+    <apn
+        name="中国联通3GNET"
+        numeric="46001"
+        mcc="460"
+        mnc="01"
+        apn="3gnet"
+        type="default,supl" />
+    <apn
+        name="中国联通3GWAP"
+        numeric="46001"
+        mcc="460"
+        mnc="01"
+        apn="3gwap"
+        proxy="10.0.0.172"
+        port="80"
+        type="default,supl" />
+    <apn
+        name="中国联通彩信"
+        numeric="46001"
+        mcc="460"
+        mnc="01"
+        apn="3gwap"
+        mmsc="http://mmsc.myuni.com.cn"
+        mmsproxy="10.0.0.172"
+        mmsport="80"
+        type="mms" />
+    <!-- 46001 -->
+    <!-- 46002 -->
+    <apn
+        name="中国移动GPRS"
+        numeric="46002"
+        mcc="460"
+        mnc="02"
+        apn="cmnet"
+        type="default,supl" />
+    <apn
+        name="中国移动CMWAP"
+        numeric="46002"
+        mcc="460"
+        mnc="02"
+        apn="cmwap"
+        proxy="10.0.0.172"
+        port="80"
+        type="default,supl" />
+    <apn
+        name="中国移动彩信"
+        numeric="46002"
+        mcc="460"
+        mnc="02"
+        apn="cmwap"
+        mmsc="http://mmsc.monternet.com"
+        mmsproxy="10.0.0.172"
+        mmsport="80"
+        type="mms" />
+    <!-- 46002 -->
+    <!-- 46003 -->
+    <apn
+        name="中国电信CTNET"
+        numeric="46003"
+        mcc="460"
+        mnc="03"
+        apn="ctnet"
+        user="ctnet@mycdma.cn"
+        password="vnet.mobi"
+        type="default,supl,dun" />
+    <apn
+        name="中国电信CTWAP"
+        numeric="46003"
+        mcc="460"
+        mnc="03"
+        apn="ctwap"
+        user="ctwap@mycdma.cn"
+        password="vnet.mobi"
+        proxy="10.0.0.200"
+        port="80"
+        type="default,supl,dun" />
+    <apn
+        name="中国电信彩信"
+        numeric="46003"
+        mcc="460"
+        mnc="03"
+        apn="ctwap"
+        user="ctwap@mycdma.cn"
+        password="vnet.mobi"
+        mmsproxy="10.0.0.200"
+        mmsport="80"
+        mmsc="http://mmsc.vnet.mobi"
+        type="mms" />
+    <!-- 46003 -->
+    <!-- 46006 -->
+    <apn
+        name="中国联通3GNET"
+        numeric="46006"
+        mcc="460"
+        mnc="06"
+        apn="3gnet"
+        type="default,supl" />
+    <apn
+        name="中国联通3GWAP"
+        numeric="46006"
+        mcc="460"
+        mnc="06"
+        apn="3gwap"
+        proxy="10.0.0.172"
+        port="80"
+        type="default,supl" />
+    <apn
+        name="中国联通彩信"
+        numeric="46006"
+        mcc="460"
+        mnc="06"
+        apn="3gwap"
+        mmsc="http://mmsc.myuni.com.cn"
+        mmsproxy="10.0.0.172"
+        mmsport="80"
+        type="mms" />
+    <!-- 46006 -->
+    <!-- 46007 -->
+    <apn
+        name="中国移动GPRS"
+        numeric="46007"
+        mcc="460"
+        mnc="07"
+        apn="cmnet"
+        type="default,supl" />
+    <apn
+        name="中国移动CMWAP"
+        numeric="46007"
+        mcc="460"
+        mnc="07"
+        apn="cmwap"
+        proxy="10.0.0.172"
+        port="80"
+        type="default,supl" />
+    <apn
+        name="中国移动彩信"
+        numeric="46007"
+        mcc="460"
+        mnc="07"
+        apn="cmwap"
+        mmsc="http://mmsc.monternet.com"
+        mmsproxy="10.0.0.172"
+        mmsport="80"
+        type="mms" />
+    <!-- 46007 -->
+    <!-- 46012 -->
+    <apn
+        name="中国电信CTNET"
+        numeric="46012"
+        mcc="460"
+        mnc="12"
+        apn="ctnet"
+        user="ctnet@mycdma.cn"
+        password="vnet.mobi"
+        type="default,supl,dun" />
+    <apn
+        name="中国电信CTWAP"
+        numeric="46012"
+        mcc="460"
+        mnc="12"
+        apn="ctwap"
+        user="ctwap@mycdma.cn"
+        password="vnet.mobi"
+        proxy="10.0.0.200"
+        port="80"
+        type="default,supl,dun" />
+    <apn
+        name="中国电信彩信"
+        numeric="46012"
+        mcc="460"
+        mnc="12"
+        apn="ctwap"
+        user="ctwap@mycdma.cn"
+        password="vnet.mobi"
+        mmsproxy="10.0.0.200"
+        mmsport="80"
+        mmsc="http://mmsc.vnet.mobi"
+        type="mms" />
+    <!-- 46012 -->
+    <!-- 46013 -->
+    <apn
+        name="中国电信CTNET"
+        numeric="46013"
+        mcc="460"
+        mnc="13"
+        apn="ctnet"
+        user="ctnet@mycdma.cn"
+        password="vnet.mobi"
+        type="default,supl,dun" />
+    <apn
+        name="中国电信CTWAP"
+        numeric="46013"
+        mcc="460"
+        mnc="13"
+        apn="ctwap"
+        user="ctwap@mycdma.cn"
+        password="vnet.mobi"
+        proxy="10.0.0.200"
+        port="80"
+        type="default,supl,dun" />
+    <apn
+        name="中国电信彩信"
+        numeric="46013"
+        mcc="460"
+        mnc="13"
+        apn="ctwap"
+        user="ctwap@mycdma.cn"
+        password="vnet.mobi"
+        mmsproxy="10.0.0.200"
+        mmsport="80"
+        mmsc="http://mmsc.vnet.mobi"
+        type="mms" />
+    <!-- 46013 -->
+    <!-- 45502 -->
+    <apn
+        name="中国电信CTNET"
+        numeric="45502"
+        mcc="455"
+        mnc="02"
+        apn="ctnet"
+        user="ctnet@mycdma.cn"
+        password="vnet.mobi"
+        type="default,supl,dun" />
+    <apn
+        name="中国电信CTWAP"
+        numeric="45502"
+        mcc="455"
+        mnc="02"
+        apn="ctwap"
+        user="ctwap@mycdma.cn"
+        password="vnet.mobi"
+        proxy="10.0.0.200"
+        port="80"
+        type="default,supl,dun" />
+    <apn
+        name="中国电信彩信"
+        numeric="45502"
+        mcc="455"
+        mnc="02"
+        apn="ctwap"
+        user="ctwap@mycdma.cn"
+        password="vnet.mobi"
+        mmsproxy="10.0.0.200"
+        mmsport="80"
+        mmsc="http://mmsc.vnet.mobi"
+        type="mms" />
+</apn-default>

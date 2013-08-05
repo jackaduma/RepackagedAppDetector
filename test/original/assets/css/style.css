@@ -1,0 +1,19 @@
+body,div,img{ margin:0; padding:0;}img{ border:none; vertical-align:top;}
+/*style*/
+body{font-size:16px;color: #082a22;background:url(../images/bg.png) repeat;}
+.wrap{}
+#header{height:65px;margin-bottom:10px;}
+.outblq{padding-left:10px;padding-right:10px;}
+.blockquote{margin-top:5px;background:#FFF9EC;border:1px solid #F59E2B;border-radius:4px;padding:5px 6px;margin-bottom:16px;}
+.blockquote p{color: #F59E2B;text-align:center;}
+.blockquote p .bolder{font-size:14px;font-weight:bold;line-height:10px;}
+.fct{margin-bottom:30px;clear:both;font-size:14px;}
+.fct h2{line-height:34px;background-color:#FDFFEE;border:1px solid #32D932;border-left-width:10px;border-right:none;font-size:16px;color: #17BA37;font-weight:bold;padding-left:16px;margin-bottom:10px;}
+.fct img{float:left;margin-right:10px;}
+.fct p{padding-right:16px;padding-left:10px;line-height:20px;}
+#footer{margin-top:20px;margin-bottom:20px;}
+#footer h2{line-height:34px;background-color:#ECFEF3;border:1px solid #3289B2;border-left-width:10px;border-right:none;font-size:16px;color: #127A90;font-weight:bold;padding-left:16px;margin-bottom:10px;}
+#footer p{font-size:14px;color:#127A90;margin-left:12px;font-weight:bold;line-height:30px;word-break:break-all;}
+#footer p a{text-decoration:underline;color: #127A90;}
+.back2top{line-height:50px;height:50px;font-size:16px;background-color:#10725C;font-weight:bold;display:block;color: #fff;padding-left:10px;text-decoration:none;
+}

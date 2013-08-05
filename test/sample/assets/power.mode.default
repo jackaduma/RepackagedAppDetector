@@ -1,0 +1,4 @@
+#id,name,brightness,screen timeout,WIFI,Mobile,BT,sync,touch feedback,vibrate,airplane
+1,最佳节电,-1,60,1,1,0,0,-2,2,0
+2,超长待机,-1,30,-2,-2,0,0,0,2,0
+3,极限模式,15,15,0,0,0,0,0,0,1

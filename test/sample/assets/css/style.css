@@ -1,0 +1,17 @@
+body,div,img{ margin:0; padding:0;}img{ border:none; vertical-align:top;}
+/*style*/
+body{font-size:15px;color: #929292;background:url(../images/bg.jpg) repeat;}
+.wrap{padding: 0 10px;}
+#header{height: 62px;background: url(../images/headerbg.png) repeat-x;}
+.tips{margin-top: 20px;margin-bottom: 10px;}
+p.tt{color: #fb913c;font-size: 22px;font-weight: bold;margin-top: 10px;margin-bottom: 10px;}
+.fct{clear: both;overflow: hidden;margin-bottom: 30px;}
+.fct h2{font-size: 18px;font-weight: bold;color: #757575;border-bottom: 1px dashed #BFC2C0;line-height: 30px;padding-bottom: 6px;}
+.fct img{float: left;margin-right: 10px;margin-bottom: 10px;}
+.fct p{margin-left: 84px;}
+#footer{margin-top: 30px;}
+#footer h2{font-size: 18px;font-weight: bold;color: #5BA2B9;border-bottom: 1px dashed #B1D2DB;line-height: 30px;padding-bottom: 6px;}
+#footer p{color: #5BA2B9;line-height: 18px;font-weight: bold;}
+#footer p a{color: #5BA2B9;font-weight: normal;}
+.backtop{height: 47px;background: url(../images/back2top.png) repeat-x;margin-top: 14px;}
+.backtop a{color: #fff;text-decoration: none;line-height: 47px;padding-left: 10px;font-size: 18px;display: block;}
